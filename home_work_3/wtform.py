@@ -1,18 +1,7 @@
-"""
-1) Создать форму регистрации для пользователя.
-2) Форма должна содержать поля: имя, электронная почта,
-пароль (с подтверждением), дата рождения, согласие на
-обработку персональных данных.
-3) Валидация должна проверять, что все поля заполнены
-корректно (например, дата рождения должна быть в
-формате дд.мм.гггг).
-4) При успешной регистрации пользователь должен быть
-перенаправлен на страницу подтверждения регистрации.
-"""
 from flask import Flask, render_template, request, redirect, url_for
 import secrets
 from flask_wtf.csrf import CSRFProtect
-from task_5_forms import RegistrationForm
+from forms import RegistrationForm
 
 app = Flask(__name__)
 app.config['SECRET_KEY'] = secrets.token_hex()
