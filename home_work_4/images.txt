@@ -1,0 +1,7 @@
+https://www.kasandbox.org/programming-images/avatars/leaf-green.png
+https://www.kasandbox.org/programming-images/avatars/leaf-grey.png
+https://www.kasandbox.org/programming-images/avatars/leaf-orange.png
+https://www.kasandbox.org/programming-images/avatars/leaf-red.png
+https://www.kasandbox.org/programming-images/avatars/leaf-yellow.png
+https://www.kasandbox.org/programming-images/avatars/cs-hopper-happy.png
+https://www.kasandbox.org/programming-images/avatars/cs-hopper-cool.png
